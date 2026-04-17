@@ -1,21 +1,12 @@
-Hi, I’m Purvi Porwal, a Data Analyst passionate about transforming raw data into actionable business insights.
+## 👋 Hi, I'm Purvi Porwal
 
-With hands-on experience in SQL, Python, and Power BI, I have worked on projects analyzing 50,000+ transactional records, building KPI dashboards, and developing machine learning models achieving up to 85% accuracy.
+🔍 Data Analyst passionate about turning messy data into clear business decisions.
 
-My expertise includes:
-• Data Cleaning & ETL
-• Advanced SQL Queries
-• Power BI & DAX Dashboards
-• Exploratory Data Analysis (EDA)
-• Customer Churn & Sales Analytics
+🛠️ **Tech Stack:** Python • SQL • Power BI (DAX) • Scikit-learn • Excel  
+📈 **Focus Areas:** EDA, KPI Dashboards, Customer Churn, Credit Risk, Sales Analytics  
+🤖 **ML Models:** Logistic Regression, Random Forest, XGBoost (up to 85% accuracy)  
+🏢 **Interned at:** Infosys Springboard (ML & Data Science) | IBM (AI & Cloud)  
+🎓 **B.Tech IT** — Rajasthan Technical University, 2026  
 
-I enjoy solving business problems using data-driven decision-making and continuously improving reporting efficiency.
-
-Currently seeking Data Analyst / Business Analyst opportunities where I can apply analytical thinking to drive measurable impact.
-
-📫 Email : purviporwal46@gmail.com
-
-<!---
-PurviGit/PurviGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 Reach me: purviporwal46@gmail.com  
+💼 Open to: Data Analyst | Business Analyst roles
