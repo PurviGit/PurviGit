@@ -22,6 +22,6 @@ records) · IBM, AI & Cloud
 
 **B.Tech IT**, Rajasthan Technical University — CGPA 9.31/10
 
-📧 purviporwal46@gmail.com · [LinkedIn](https://linkedin.com/in/purvi-porwal-a6554a258)
+📧 purviporwal46@gmail.com · [LinkedIn](https://linkedin.com/in/purviporwal)
 Portfolio : https://purvigit.github.io/PurviGit
 
