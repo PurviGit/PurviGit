@@ -16,10 +16,6 @@ Power BI (DAX), Excel, Docker, Git.
 - A funnel analysis that traced $114,704 in leakage to one specific stage
   of a 99,000-order pipeline — [Revenue Leakage](https://github.com/PurviGit/Revenue-Leakage-Funnel-Analysis)
 
-**Internships:** Infosys Springboard (built a credit-risk model, 85%
-accuracy) · Shell India Markets, AICTE (analyzed 50,000+ EV registration
-records) · IBM, AI & Cloud
-
 **B.Tech IT**, Rajasthan Technical University — CGPA 9.31/10
 
 📧 purviporwal46@gmail.com · [LinkedIn](https://linkedin.com/in/purviporwal)
